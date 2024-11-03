@@ -24,6 +24,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+body{
+  font-family: "Merienda", cursive !important;
+}
 
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
@@ -61,4 +64,10 @@
 }
 .icon-photo-camera:before {
   content: "\68";
+}
+.icon-guest:before{
+  content: "g";
+}
+.icon-party:before{
+  content: "b";
 }

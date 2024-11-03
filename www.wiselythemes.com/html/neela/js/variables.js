@@ -1,7 +1,7 @@
 /**
  * Javascript variables
  */
- 
+
 //RTL support
 var rtl = false;                                //Set to true if your website is RTL. Otherwise, keep it false.
 
@@ -34,10 +34,10 @@ var contact_form_recaptcha_error_msg = "Error verifying reCaptcha!";
 
 
 //COUNTDOWN VARIABLES
-var c_days = "DAYS";                            //Countdown "Days" label
-var c_hours = "HOURS";                          //Countdown "Hours" label
-var c_minutes = "MIN.";                         //Countdown "Minutes" label
-var c_seconds = "SEC.";                         //Countdown "Seconds" label
+var c_days = "Ngày";                            //Countdown "Days" label
+var c_hours = "Giờ";                          //Countdown "Hours" label
+var c_minutes = "Phút.";                         //Countdown "Minutes" label
+var c_seconds = "Giây.";                         //Countdown "Seconds" label
 var countdown_end_msg = "Event Started!";       //Message to display when the countdown reaches the end
 
 
