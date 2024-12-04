@@ -62,3 +62,9 @@
 .icon-photo-camera:before {
   content: "\68";
 }
+.icon-guest:before{
+  content: "g";
+}
+.icon-party:before{
+  content: "b";
+}
